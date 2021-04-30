@@ -1,0 +1,3 @@
+F:\Visual C++ projects\ExpressNodeTestServer\ExpressNodeTestServer\obj\Debug\ExpressNodeTestServer.njsprojAssemblyReference.cache
+F:\Visual C++ projects\ExpressNodeTestServer\ExpressNodeTestServer\obj\Debug\ExpressNodeTestServer.njsproj.CoreCompileInputs.cache
+F:\Visual C++ projects\ExpressNodeTestServer\ExpressNodeTestServer\bin\Microsoft.NodejsTools.WebRole.dll
